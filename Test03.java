@@ -6,5 +6,6 @@ public class Test03 {
     public static void main(String[] args) {
         System.out.println("01用户初始化文件");
         System.out.println("01用户第一次修改文件");
+        System.out.println("02用户第一次修改文件");
     }
 }
